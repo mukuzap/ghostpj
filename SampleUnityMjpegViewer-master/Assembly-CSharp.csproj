@@ -575,6 +575,9 @@
     <Compile Include="Assets\HoloToolkit\UX\Scripts\UsabilityUtilities.cs" />
     <Compile Include="Assets\Scripts\MjpegProcessor.cs" />
     <Compile Include="Assets\Scripts\MjpegTexture.cs" />
+    <Compile Include="Assets\Scripts\SoundPlayersc.cs" />
+    <Compile Include="Assets\Scripts\SoundStart.cs" />
+    <Compile Include="Assets\Scripts\textchanger.cs" />
     <None Include="Assets\HoloToolkit\Utilities\Scripts\GLTF\Shaders\GLTFConstant.cginc" />
     <None Include="Assets\HoloToolkit\Common\Shaders\Obsolete\UnlitConfigurable.shader" />
     <None Include="Assets\HoloToolkit\UX\Shaders\HUXButtonShader.shader" />

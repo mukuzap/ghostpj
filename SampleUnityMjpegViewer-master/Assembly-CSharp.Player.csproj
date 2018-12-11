@@ -260,6 +260,9 @@
     <Reference Include="System.Drawing">
       <HintPath>Assets/Scripts/System.Drawing.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEngine.StandardEvents">
+      <HintPath>C:/Users/rmgam/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
+    </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:\Program Files\newUnity\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\mscorlib.dll</HintPath>
     </Reference>
@@ -1394,6 +1397,9 @@
     <Compile Include="Assets\HoloToolkit\UX\Scripts\UsabilityUtilities.cs" />
     <Compile Include="Assets\Scripts\MjpegProcessor.cs" />
     <Compile Include="Assets\Scripts\MjpegTexture.cs" />
+    <Compile Include="Assets\Scripts\SoundPlayersc.cs" />
+    <Compile Include="Assets\Scripts\SoundStart.cs" />
+    <Compile Include="Assets\Scripts\textchanger.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
